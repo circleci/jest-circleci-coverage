@@ -1,5 +1,8 @@
 # jest-circleci-coverage
 
+> [!IMPORTANT]
+> This plugin has moved: https://github.com/CircleCI-Public/smarter-testing-plugins
+
 [![JSR](https://jsr.io/badges/@circleci/jest-circleci-coverage)](https://jsr.io/@circleci/jest-circleci-coverage)
 
 A Jest plugin that generates coverage data for
